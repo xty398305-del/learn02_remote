@@ -1,2 +1,2 @@
 # learn02_remote
-use to try cloning
+use to learn Git and GitHub
